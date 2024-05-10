@@ -1,15 +1,15 @@
-___
-#
+
+
 # Somlitux Framework
-#
-___
+
+
 
 ## SmolituxOS
 
 SmolituxOS Basic is a Ubuntu/Debian/Fedora Fork with the difference that the smolit ai assistant is not only integrated for administrative purposes at system level, but also for direct user interaction. this is made possible by the direct api communication of the ai assistant with the programs to be used through a user-friendly GUI.
 SmolituxOS Community is the free and open source community driven version.
 
-___
+
 
 
 ## Smolit-Assistant
@@ -26,7 +26,7 @@ Smolit-Assistant ist ein revolutionärer KI-Assistent, der speziell für das Smo
 6. **T_oolchain Optimization (Toolchain-Optimierung):** Der Smolit-Assistant ist darauf ausgelegt, mit einer Vielzahl von Werkzeugen und Anwendungen optimal zu funktionieren. Dies umfasst eine reibungslose Integration und Optimierung der Toolchain, um die Arbeitsabläufe zu vereinfachen und die Produktivität zu steigern.
 Durch die Kombination dieser sechs Schlüsselelemente ermöglicht Smolit-Assistant den Nutzern von SmolituxOS eine unvergleichliche Flexibilität, Kontrolle und Effizienz bei der Interaktion mit ihrem Betriebssystem.
 
-___
+
 
 ## Smolitux Academy
 
@@ -35,14 +35,13 @@ Die Smolitux Academy konzentriert sich auf die Lerninhalt der Einführung in die
 - AI - Generell:Explanation, Nutzung:Using-AI-technology, Host-AI:Local/Cloud
 - Crypto - Generell,Trading,AI-integration
 
-___
+
 
 
 ## SmoliTradeOS
 
-**add content**
+SmoliTradeOS - Your privat and local, AI powered Crypto Bank operating system
 
-___
 
 ## 
 
